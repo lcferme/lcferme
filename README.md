@@ -2,7 +2,7 @@
 
 
 
-I am Lucrezia and I am a PhD candidate @ [the Norden Lab][websitelab]. The mysteries of Nature have always fascinated me and for this reason I decided to pursue a degree in Biotechnology (B.Sc & M.Sc.). During this journey, I learnt Python programming and came to realize how much fun it is to perform image and data analysis on the data I generate in the lab :)
+I am Lucrezia and I am a PhD candidate @ [the Norden Lab][websitelab]. The mysteries of Nature have always fascinated me and for this reason I decided to pursue a degree in Biotechnology (B.Sc & M.Sc.). During this journey, I learnt Python programming and came to realize how much fun I have when doing image and data analysis on the data I generate in the lab... (almost) all home-made! 🌱
 
 - 🔭  I’m currently investigating the role of tissue packing in developing neuroepithelia 
 - 🌱  I’m learning how to perform quantitative image analysis and apply deep learning tools to process my datasets
